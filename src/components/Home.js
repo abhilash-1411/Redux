@@ -11,7 +11,8 @@ function Home(props) {
                 </div>
                 <div className="text-wrapper item">
                     <span>
-                        I-Phone
+                       <b>I-Phone</b> 
+                        <br/>
                     </span>
                     <span>
                         Price: $1000.00
